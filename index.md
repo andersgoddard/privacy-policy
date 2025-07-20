@@ -6,9 +6,16 @@ This Chrome extension, **Browser Activity Monitor**, collects limited data to pr
 
 ## What We Collect
 
-- **Postcode** and **EPC image URL** from property pages
-- The current page URL
-- No personal data or identifiable user information is collected
+Location:
+Our extension collects postcode information extracted from property listings on Rightmove.co.uk. Additionally, our backend server may log your IP address for security and operational purposes. This information is used solely to provide and improve the extension’s features and is not shared with third parties.
+
+Web History:
+The extension collects the URLs of Rightmove property pages you visit to log and monitor your browsing activity within Rightmove only. No other browsing history or websites outside of Rightmove are accessed or recorded.
+
+Website Content:
+The extension extracts specific content from Rightmove property pages, including postcode and EPC (Energy Performance Certificate) image URLs, the current page URL to enable functionality related to property data monitoring.
+
+No personal data or identifiable user information is collected
 
 ## How We Use It
 
